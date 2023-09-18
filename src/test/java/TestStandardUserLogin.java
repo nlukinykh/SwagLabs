@@ -11,5 +11,5 @@ public class TestStandardUserLogin extends BaseTest {
         Assert.assertTrue(productsPage.isProductLabelDisplayed());
     }
 
-    // create comment for new branch
+    // create comment for new branch - create conflict
 }
